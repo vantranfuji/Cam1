@@ -1,17 +1,17 @@
-# 🐸 Con Ếch Bơi Qua Sông
+# 🐸 Frog River Game
 
-Một mini game đơn giản mô phỏng trò chơi "Frogger" cổ điển. Nhiệm vụ của bạn là điều khiển con ếch bơi qua sông, tránh các khúc gỗ đang trôi, và đến được bờ bên kia an toàn!
+A simple mini-game inspired by the classic "Frogger" style. Your goal is to control a frog and help it swim across the river while avoiding floating obstacles!
 
-## 🎮 Cách chơi
+## 🎮 How to Play
 
-- Sử dụng các phím mũi tên `↑`, `↓`, `←`, `→` để điều khiển con ếch di chuyển lên/xuống/trái/phải.
-- Tránh va chạm với các chướng ngại vật (khúc gỗ).
-- Nếu bị đụng, trò chơi kết thúc.
-- Nếu bạn đến được bờ bên kia, bạn sẽ chiến thắng!
+- Use the arrow keys `↑`, `↓`, `←`, `→` to move the frog.
+- Avoid colliding with floating logs.
+- If you collide with an obstacle → **Game Over**.
+- If the frog reaches the top bank of the river → **You Win**!
 
-## 🚀 Cài đặt & Chạy game
+## 🚀 How to Run
 
-1. Clone repository:
+1. Clone this repository:
 ```bash
 git clone https://github.com/vantranfuji/Cam1.git
 cd Cam1
