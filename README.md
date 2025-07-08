@@ -1,18 +1,46 @@
-# 🐦 Flying Bird Game
+# 🪂 Parachute Drop - Arcade Mini Game
 
-A simple Flappy Bird-style game made with HTML, CSS, and JavaScript. Tap or press to keep the bird flying and avoid the pipes. How far can you go?
+**Parachute Drop** is a fast-paced, arcade-style game where players skydive from high altitudes and dodge obstacles while trying to land safely on a designated target zone. Precision, timing, and quick reflexes are key to survival!
 
-## 🎮 How to Play
+## 🎮 Gameplay
 
-- Press the `Space` key (or tap on mobile) to make the bird flap upward.
-- Avoid hitting the pipes or falling to the ground.
-- The game gets harder as you go!
-- Your score increases every time you pass a pipe.
+- Jump from a flying plane 🚁
+- Control your fall using arrow keys or swipe gestures
+- Avoid birds, drones, and unexpected wind blasts
+- Open your parachute at the right moment
+- Land on the target to earn points and advance to harder levels
 
-## 🚀 How to Run the Game
+## 🧠 Features
 
-1. Clone this repository:
+- Simple but addictive mechanics
+- Increasing difficulty with each level
+- Power-ups like Slow Motion, Wind Shield, and Extra Lives
+- Fun ragdoll physics and cartoon-style graphics
+- High score tracking
+
+## 🕹️ Controls
+
+| Platform       | Action               | Control       |
+|----------------|----------------------|---------------|
+| Desktop        | Move left/right      | ← / → arrows  |
+|                | Deploy parachute     | Spacebar      |
+| Mobile         | Move left/right      | Swipe         |
+|                | Deploy parachute     | Tap           |
+
+## 🚀 How to Play
+
+1. Press **Start** to board the plane.
+2. Jump out and steer your character.
+3. Avoid obstacles mid-air.
+4. Open your parachute before hitting the ground.
+5. Land on the target for maximum score!
+
+## 📦 Installation
+
+To run locally:
+
 ```bash
-git clone https://github.com/your-username/flying-bird-game.git
-cd flying-bird-game
-
+git clone https://github.com/yourusername/parachute-drop.git
+cd parachute-drop
+npm install
+npm start
