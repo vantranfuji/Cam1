@@ -16,7 +16,6 @@
 - Increasing difficulty with each level
 - Power-ups like Slow Motion, Wind Shield, and Extra Lives
 - Fun ragdoll physics and cartoon-style graphics
-- High score tracking
 
 ## 🕹️ Controls
 
